@@ -10,6 +10,7 @@ Personel Yönetim Uygulaması SOL
   - Personel ekleme,silme,düzenleme,filtreleme
   - Verileri word,excel,html,pdf formatında aktarma (ayrıca panoya satır veya tümleşik olarak kopyalama)
   - Yapılan anlık düzenlemelerin tarih ve saat olarak json dosyasına loglama (uygulamada anlık görüntüleme)
+  - Veriler üzerinde mouse(sağ-tık) ile tek tek işlem yapma
   - Uygulama üzerinde kalıcı olarak tema ayarları yapma
 
 Not
