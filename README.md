@@ -6,7 +6,7 @@ Personel Yönetim Uygulaması SOL
 
 
 Özellikler
-  - Kullanıcının kendi veri tabanı bilgileri ile baglantı saglaması. (otomatik tablolar oluşmaktadır.)
+  - Kullanıcının kendi mevcut durumda bulunan veri tabanı ile baglantı saglaması. (otomatik tablolar oluşmaktadır.)
   - Personel ekleme,silme,düzenleme,filtreleme
   - Verileri word,excel,html,pdf formatında aktarma (ayrıca panoya satır veya tümleşik olarak kopyalama)
   - Yapılan anlık düzenlemelerin tarih ve saat olarak json dosyasına loglama (uygulamada anlık görüntüleme)
